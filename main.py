@@ -13,10 +13,7 @@ def main():
     print("\n--- Gemini's Response ---")
     print(gemini_response)
     messagebox.showinfo("Gemini AI", f"{gemini_response}")
-#if __name__ == "__main__":
-    #while True:
-        #main()
-        
+
 # Create the main window
 root = tk.Tk()
 root.title("Tkinter Input Example")
@@ -36,3 +33,4 @@ submit_button.pack(pady=10) # Add some vertical padding
 
 # Start the Tkinter event loop
 root.mainloop()
+
