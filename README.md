@@ -1,5 +1,5 @@
 # GoogleGeminiAI
-In this project I use Python to send a text prompt to Google Gemini AI and get a response
+In this project I use Python to send a text prompt to Google Gemini AI using the Python request library to make an HTTP POST request and get a response.
 
 First we need to obtain our Gemini AI API key by going onto Google's AI Developer portable you can create a free one.
 ![Screenshot](https://github.com/jasnnh/GoogleGeminiAI/blob/main/1.jpg)
